@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>zh-CN</dc:language>
+    <dc:title>转生王女和天才千金的魔法革命 1</dc:title>
+    <dc:creator opf:role="aut">鴉ぴえろ</dc:creator>
+    <meta content="1.1.0" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2020-06-01</dc:date>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:06c0e577-0a62-47da-a784-a81b2629150d</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="x001.jpg" href="Images/001.jpg" media-type="image/jpeg"/>
+    <item id="x005.jpg" href="Images/005.jpg" media-type="image/jpeg"/>
+    <item id="x006.jpg" href="Images/006.jpg" media-type="image/jpeg"/>
+    <item id="x007.jpg" href="Images/007.jpg" media-type="image/jpeg"/>
+    <item id="x008.jpg" href="Images/008.jpg" media-type="image/jpeg"/>
+    <item id="x009.jpg" href="Images/009.jpg" media-type="image/jpeg"/>
+    <item id="x010.jpg" href="Images/010.jpg" media-type="image/jpeg"/>
+    <item id="x011.jpg" href="Images/011.jpg" media-type="image/jpeg"/>
+    <item id="x012.jpg" href="Images/012.jpg" media-type="image/jpeg"/>
+    <item id="x013.jpg" href="Images/013.jpg" media-type="image/jpeg"/>
+    <item id="x014.jpg" href="Images/014.jpg" media-type="image/jpeg"/>
+    <item id="Chapter1.xhtml" href="Text/Chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter2.xhtml" href="Text/Chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter3.xhtml" href="Text/Chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter4.xhtml" href="Text/Chapter4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter5.xhtml" href="Text/Chapter5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Postscript.xhtml" href="Text/Postscript.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prologue.xhtml" href="Text/Prologue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Epilogue.xhtml" href="Text/Epilogue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="simhei.ttf" href="Fonts/simhei.ttf" media-type="font/ttf"/>
+    <item id="STSONG.TTF" href="Fonts/STSONG.TTF" media-type="font/ttf"/>
+    <item id="message.xhtml" href="Text/message.xhtml" media-type="application/xhtml+xml"/>
+    <item id="synopsis.xhtml" href="Text/synopsis.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x002-l.jpg" href="Images/002-l.jpg" media-type="image/jpeg"/>
+    <item id="x002-r.jpg" href="Images/002-r.jpg" media-type="image/jpeg"/>
+    <item id="illu1.xhtml" href="Text/illu1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="illu1-t.xhtml" href="Text/illu1-t.xhtml" media-type="application/xhtml+xml"/>
+    <item id="illu2.xhtml" href="Text/illu2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="illu2-t.xhtml" href="Text/illu2-t.xhtml" media-type="application/xhtml+xml"/>
+    <item id="illu3.xhtml" href="Text/illu3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="illu4.xhtml" href="Text/illu4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x003.jpg" href="Images/003.jpg" media-type="image/jpeg"/>
+    <item id="x004.jpg" href="Images/004.jpg" media-type="image/jpeg"/>
+    <item id="illu3-t.xhtml" href="Text/illu3-t.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Std-E.otf" href="Fonts/Std-E.otf" media-type="font/otf"/>
+    <item id="ZM.ttf" href="Fonts/ZM.ttf" media-type="font/ttf"/>
+    <item id="PuHuiTi.ttf" href="Fonts/PuHuiTi.ttf" media-type="font/ttf"/>
+    <item id="HKHTJW.TTF" href="Fonts/HKHTJW.TTF" media-type="font/ttf"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="YT.ttf" href="Fonts/YT.ttf" media-type="font/ttf"/>
+    <item id="FZBWKS_GBK.ttf" href="Fonts/FZBWKS_GBK.ttf" media-type="font/ttf"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover2.xhtml" href="Text/cover2.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="cover2.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="message.xhtml"/>
+    <itemref idref="synopsis.xhtml"/>
+    <itemref idref="illu1.xhtml"/>
+    <itemref idref="illu1-t.xhtml"/>
+    <itemref idref="illu2.xhtml"/>
+    <itemref idref="illu2-t.xhtml"/>
+    <itemref idref="illu3.xhtml"/>
+    <itemref idref="illu3-t.xhtml"/>
+    <itemref idref="illu4.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Prologue.xhtml"/>
+    <itemref idref="Chapter1.xhtml"/>
+    <itemref idref="Chapter2.xhtml"/>
+    <itemref idref="Chapter3.xhtml"/>
+    <itemref idref="Chapter4.xhtml"/>
+    <itemref idref="Chapter5.xhtml"/>
+    <itemref idref="Epilogue.xhtml"/>
+    <itemref idref="Postscript.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="目录" href="Text/TOC.xhtml"/>
+    <reference type="cover" title="封面" href="Text/cover.xhtml"/>
+  </guide>
+</package>

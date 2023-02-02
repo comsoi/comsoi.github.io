@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:f443cb27-6187-4aee-a153-9c508c76100d" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>转生王女和天才千金的魔法革命【Web版】</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="sep_0">
+      <navLabel>
+        <text>第1部 第1章 转生王女和天才千金</text>
+      </navLabel>
+      <content src="0.xhtml"/>
+      <navPoint id="chapter_0">
+        <navLabel>
+          <text>作品相关</text>
+        </navLabel>
+        <content src="0.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_1">
+        <navLabel>
+          <text>第1话 转生王女是破天荒的王女</text>
+        </navLabel>
+        <content src="1.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_2">
+        <navLabel>
+          <text>第2话 国王陛下今天也胃痛</text>
+        </navLabel>
+        <content src="2.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_3">
+        <navLabel>
+          <text>第3话 她是王国第一的奇人怪人</text>
+        </navLabel>
+        <content src="3.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_4">
+        <navLabel>
+          <text>第4话 公爵千金的四方面谈（前篇）</text>
+        </navLabel>
+        <content src="4.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_5">
+        <navLabel>
+          <text>第5话 公爵千金的四方面谈（后篇）</text>
+        </navLabel>
+        <content src="5.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_6">
+        <navLabel>
+          <text>第6话 大小姐就交给我了！</text>
+        </navLabel>
+        <content src="6.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_7">
+        <navLabel>
+          <text>第7话 安妮丝菲亚的魔学讲座</text>
+        </navLabel>
+        <content src="7.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_8">
+        <navLabel>
+          <text>第8话 赠送魔剑吧！</text>
+        </navLabel>
+        <content src="8.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_9">
+        <navLabel>
+          <text>第9话 破天荒王女不会突然停下</text>
+        </navLabel>
+        <content src="9.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_10">
+        <navLabel>
+          <text>第10话 狩猎的掠夺姬</text>
+        </navLabel>
+        <content src="10.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_11">
+        <navLabel>
+          <text>第11话 公爵千金的忧郁</text>
+        </navLabel>
+        <content src="11.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_12">
+        <navLabel>
+          <text>第12话 听取事情的报告与麻烦事</text>
+        </navLabel>
+        <content src="12.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_13">
+        <navLabel>
+          <text>第13话 晚会与您共舞</text>
+        </navLabel>
+        <content src="13.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_1">
+      <navLabel>
+        <text>第2章 转生王女和传说中的怪物</text>
+      </navLabel>
+      <content src="14.xhtml"/>
+      <navPoint id="chapter_14">
+        <navLabel>
+          <text>第14话 片刻的安宁</text>
+        </navLabel>
+        <content src="14.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_15">
+        <navLabel>
+          <text>第15话 王女殿下突击家访</text>
+        </navLabel>
+        <content src="15.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_16">
+        <navLabel>
+          <text>第16话 陷入僵局</text>
+        </navLabel>
+        <content src="16.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_17">
+        <navLabel>
+          <text>第17话 安妮丝菲亚所畏惧的</text>
+        </navLabel>
+        <content src="17.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_18">
+        <navLabel>
+          <text>第18话 男爵千金的真实面目</text>
+        </navLabel>
+        <content src="18.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_19">
+        <navLabel>
+          <text>第19话 传说中的怪物</text>
+        </navLabel>
+        <content src="19.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_20">
+        <navLabel>
+          <text>第20话 和解成立与问题整理</text>
+        </navLabel>
+        <content src="20.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_21">
+        <navLabel>
+          <text>第21话 来检查身体吧</text>
+        </navLabel>
+        <content src="21.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_22">
+        <navLabel>
+          <text>第22话 致使疯狂之物</text>
+        </navLabel>
+        <content src="22.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_23">
+        <navLabel>
+          <text>第23话 姐弟间的往事</text>
+        </navLabel>
+        <content src="23.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_24">
+        <navLabel>
+          <text>第24话 莫名其妙的邀请函</text>
+        </navLabel>
+        <content src="24.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_25">
+        <navLabel>
+          <text>第25话 阴谋随之拉开帷幕</text>
+        </navLabel>
+        <content src="25.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_26">
+        <navLabel>
+          <text>第26话 王女与王太子</text>
+        </navLabel>
+        <content src="26.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_27">
+        <navLabel>
+          <text>第27话 两人是姐弟</text>
+        </navLabel>
+        <content src="27.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_28">
+        <navLabel>
+          <text>第28话 终局</text>
+        </navLabel>
+        <content src="28.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_29">
+        <navLabel>
+          <text>第29话 再见</text>
+        </navLabel>
+        <content src="29.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_2">
+      <navLabel>
+        <text>第3章 转生王女和王位继承权</text>
+      </navLabel>
+      <content src="30.xhtml"/>
+      <navPoint id="chapter_30">
+        <navLabel>
+          <text>第30话 为谁成王（上）</text>
+        </navLabel>
+        <content src="30.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_31">
+        <navLabel>
+          <text>第31话 为谁成王（中）</text>
+        </navLabel>
+        <content src="31.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_32">
+        <navLabel>
+          <text>第32话 为谁成王（下）</text>
+        </navLabel>
+        <content src="32.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_33">
+        <navLabel>
+          <text>第33话 为你成王</text>
+        </navLabel>
+        <content src="33.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_34">
+        <navLabel>
+          <text>第34话 孤独的公主大人</text>
+        </navLabel>
+        <content src="34.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_35">
+        <navLabel>
+          <text>第35话 伊利亚的宝物</text>
+        </navLabel>
+        <content src="35.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_36">
+        <navLabel>
+          <text>第36话 父与女，王与王女</text>
+        </navLabel>
+        <content src="36.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_37">
+        <navLabel>
+          <text>第37话 假面脱落、坠入情网</text>
+        </navLabel>
+        <content src="37.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_38">
+        <navLabel>
+          <text>第38话 魔法省访问</text>
+        </navLabel>
+        <content src="38.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_39">
+        <navLabel>
+          <text>第39话 难以进展的调查</text>
+        </navLabel>
+        <content src="39.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_40">
+        <navLabel>
+          <text>第40话 其名为「空」</text>
+        </navLabel>
+        <content src="40.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_41">
+        <navLabel>
+          <text>第41话 绚狼舞踏祭</text>
+        </navLabel>
+        <content src="41.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_3">
+      <navLabel>
+        <text>幕间</text>
+      </navLabel>
+      <content src="42.xhtml"/>
+      <navPoint id="chapter_42">
+        <navLabel>
+          <text>灰色的小丑嗤之以鼻</text>
+        </navLabel>
+        <content src="42.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_43">
+        <navLabel>
+          <text>于浅眠中的怀旧之梦</text>
+        </navLabel>
+        <content src="43.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_44">
+        <navLabel>
+          <text>某伯爵公子的受难</text>
+        </navLabel>
+        <content src="44.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_4">
+      <navLabel>
+        <text>第4章 转生王女和精灵契约</text>
+      </navLabel>
+      <content src="45.xhtml"/>
+      <navPoint id="chapter_45">
+        <navLabel>
+          <text>第42话 浓雾中的线索</text>
+        </navLabel>
+        <content src="45.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_46">
+        <navLabel>
+          <text>第43话 玛泽塔公爵家访（前篇）</text>
+        </navLabel>
+        <content src="46.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_47">
+        <navLabel>
+          <text>第44话 玛泽塔公爵家访（后篇）</text>
+        </navLabel>
+        <content src="47.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_48">
+        <navLabel>
+          <text>第45话 不安与危机感</text>
+        </navLabel>
+        <content src="48.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_49">
+        <navLabel>
+          <text>第46话 灰色的伯爵公子</text>
+        </navLabel>
+        <content src="49.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_50">
+        <navLabel>
+          <text>第47话 魔学的理念</text>
+        </navLabel>
+        <content src="50.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_51">
+        <navLabel>
+          <text>第48话 魔学所追求之物（前篇）</text>
+        </navLabel>
+        <content src="51.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_52">
+        <navLabel>
+          <text>第49话 魔学所追求之物（后篇）</text>
+        </navLabel>
+        <content src="52.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_53">
+        <navLabel>
+          <text>第50话 禁忌的知识</text>
+        </navLabel>
+        <content src="53.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_54">
+        <navLabel>
+          <text>第51话 期盼已久的消息</text>
+        </navLabel>
+        <content src="54.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_55">
+        <navLabel>
+          <text>第52话 于前方等待之人</text>
+        </navLabel>
+        <content src="55.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_56">
+        <navLabel>
+          <text>第53话 真相</text>
+        </navLabel>
+        <content src="56.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_57">
+        <navLabel>
+          <text>第54话 “空”与“虹”各自的祈愿</text>
+        </navLabel>
+        <content src="57.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_58">
+        <navLabel>
+          <text>第55话 契约与约定</text>
+        </navLabel>
+        <content src="58.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_5">
+      <navLabel>
+        <text>第5章 转生王女和哈吉玛利的魔法</text>
+      </navLabel>
+      <content src="59.xhtml"/>
+      <navPoint id="chapter_59">
+        <navLabel>
+          <text>第56话 她们的归来</text>
+        </navLabel>
+        <content src="59.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_60">
+        <navLabel>
+          <text>第57话 愿望</text>
+        </navLabel>
+        <content src="60.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_61">
+        <navLabel>
+          <text>第58话 首席公爵的思虑</text>
+        </navLabel>
+        <content src="61.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_62">
+        <navLabel>
+          <text>第59话 安妮丝菲亚的价值</text>
+        </navLabel>
+        <content src="62.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_63">
+        <navLabel>
+          <text>第60话 革命的序曲</text>
+        </navLabel>
+        <content src="63.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_64">
+        <navLabel>
+          <text>第61话 期待已久的事物</text>
+        </navLabel>
+        <content src="64.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_65">
+        <navLabel>
+          <text>第62话 跃动与陷阱</text>
+        </navLabel>
+        <content src="65.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_66">
+        <navLabel>
+          <text>第63话 被指引的出路</text>
+        </navLabel>
+        <content src="66.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_67">
+        <navLabel>
+          <text>第64话 齿轮咬合一体</text>
+        </navLabel>
+        <content src="67.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_68">
+        <navLabel>
+          <text>第65话 革命的进行曲</text>
+        </navLabel>
+        <content src="68.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_69">
+        <navLabel>
+          <text>第66话 飞翔的梦想</text>
+        </navLabel>
+        <content src="69.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_70">
+        <navLabel>
+          <text>第67话 “起始”的魔法</text>
+        </navLabel>
+        <content src="70.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_71">
+        <navLabel>
+          <text>Epilogue 我们一直憧憬着魔法</text>
+        </navLabel>
+        <content src="71.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_6">
+      <navLabel>
+        <text>隐藏番外</text>
+      </navLabel>
+      <content src="72.xhtml"/>
+      <navPoint id="chapter_72">
+        <navLabel>
+          <text>仿佛月亮在俯瞰</text>
+        </navLabel>
+        <content src="72.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_73">
+        <navLabel>
+          <text>你是我的光</text>
+        </navLabel>
+        <content src="73.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_7">
+      <navLabel>
+        <text>后日谈</text>
+      </navLabel>
+      <content src="74.xhtml"/>
+      <navPoint id="chapter_74">
+        <navLabel>
+          <text>安妮丝菲亚的生日庆典1</text>
+        </navLabel>
+        <content src="74.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_75">
+        <navLabel>
+          <text>安妮丝菲亚的生日庆典2</text>
+        </navLabel>
+        <content src="75.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_76">
+        <navLabel>
+          <text>安妮丝菲亚的生日庆典3</text>
+        </navLabel>
+        <content src="76.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_8">
+      <navLabel>
+        <text>Another Story</text>
+      </navLabel>
+      <content src="77.xhtml"/>
+      <navPoint id="chapter_77">
+        <navLabel>
+          <text>废黜王子和狼少女01</text>
+        </navLabel>
+        <content src="77.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_78">
+        <navLabel>
+          <text>废黜王子和狼少女02</text>
+        </navLabel>
+        <content src="78.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_79">
+        <navLabel>
+          <text>废黜王子和狼少女03</text>
+        </navLabel>
+        <content src="79.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_80">
+        <navLabel>
+          <text>废黜王子和狼少女04</text>
+        </navLabel>
+        <content src="80.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_81">
+        <navLabel>
+          <text>废黜王子和狼少女05</text>
+        </navLabel>
+        <content src="81.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_82">
+        <navLabel>
+          <text>废黜王子和狼少女06</text>
+        </navLabel>
+        <content src="82.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_83">
+        <navLabel>
+          <text>废黜王子和狼少女07</text>
+        </navLabel>
+        <content src="83.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_84">
+        <navLabel>
+          <text>废黜王子和狼少女08</text>
+        </navLabel>
+        <content src="84.xhtml"/>
+      </navPoint>
+      <navPoint id="chapter_85">
+        <navLabel>
+          <text>废黜王子和狼少女09</text>
+        </navLabel>
+        <content src="85.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

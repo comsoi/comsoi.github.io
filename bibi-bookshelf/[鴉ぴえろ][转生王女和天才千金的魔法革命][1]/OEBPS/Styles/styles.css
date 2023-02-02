@@ -1,0 +1,469 @@
+/*基础样式*/
+body{
+  padding: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 1%;
+  margin-right: 1%;
+  line-height:1.2;
+  text-align: justify;
+}
+p {
+  text-indent:2em;
+  display:block;
+  line-height:1.3;
+  margin-top:0.6em;
+  margin-bottom:0.6em;
+}
+div {
+  margin:0px;
+  padding:0px;
+  line-height:1.2;
+  text-align: justify;
+}
+li{ 
+  clear:both;
+  display:block;
+}
+td{
+  padding:3px 0px
+}
+
+
+/*封面样式*/
+.cover {margin: 0px;padding: 0px;text-indent: 0;text-align: center !important;}
+
+
+
+/*目录页样式*/
+/*“目录”标题颜色*/
+.colorco{color:#000000}
+/*目录页超链接样式*/
+.nodeco{text-decoration:none}
+/*目录页超链接颜色*/
+.colorg{color:#000000}
+/*目录样式*/
+.contents {
+  width: 18em;
+  max-width: 100%;
+  margin-right: auto;margin-left: auto;
+}
+.contents ol {
+  line-height:1;
+  margin: 1em auto;
+}
+.contents li {
+  list-style:none;
+  border-bottom: 1px dashed black;
+  padding: 0 0 0.5em 4em;
+  margin:1em 0 0 0;
+  text-indent:-4em;
+}
+.contents p {
+  text-indent: 0em;
+  line-height: 0.4em;
+}
+/*正文样式*/
+/*正文章节标题样式*/
+h1 {font-size: 1.5em;line-height: 1.2;font-weight: bold;text-align: center !important;}
+/*注释代码样式*/
+.po{font-size:0.9em;text-indent:-0.8em;padding: 0em 0.1em 0.1em 1em;color:#960014}
+/*正文插图样式*/
+/*插图设置*/
+.caicha {
+    font-family: inherit;
+    font-size: 1em;
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    height: auto;
+    line-height: inherit;
+    vertical-align: baseline;
+    width: 100%;
+    padding: 0;
+    border: #ccc solid 1px;
+    margin: 0
+  }
+
+/*上标样式*/
+ruby{ruby-align:center}
+rt{font-size:0.55em;}
+/*下标黑点着重号*/
+.zzh {text-emphasis-style:dot;text-emphasis-position:under right;-webkit-text-emphasis-style:dot;-webkit-text-emphasis-position:under right;-epub-text-emphasis-style:dot;-epub-text-emphasis-position:under right;}
+
+
+/*字体样式控制*/
+/*字体加粗*/
+.bold{font-weight:bold}
+/*字体高度*/
+.font02{font-size: 5px}
+.font03{font-size: 0.3em}
+.font04{font-size: 0.4em}
+.font05{font-size: 0.5em}
+.font055{font-size: 0.55em}
+.font06{font-size: 0.6em}
+.font07{font-size: 0.7em}
+.font075{font-size: 0.75em}
+.font08{font-size: 0.8em}
+.font085{font-size: 0.85em}
+.font09{font-size: 0.9em}
+.font10{font-size: 1.0em}
+.font11{font-size: 1.1em}
+.font115{font-size: 1.15em}
+.font12{font-size: 1.2em}
+.font13{font-size: 1.3em}
+.font14{font-size: 1.4em}
+.font15{font-size: 1.5em}
+.font16{font-size: 1.6em}
+.font17{font-size: 1.7em}
+.font18{font-size: 1.8em}
+.font19{font-size: 1.9em}
+.font20{font-size: 2em}
+.font25{font-size: 2.5em}
+.font28{font-size: 2.8em}
+.font30{font-size: 3em}
+.font40{font-size: 4em}
+/*首行缩进值为0*/
+.in0{text-indent:0em}
+.in2{text-indent:2em}
+.in4{text-indent:4em}
+
+/*字符间距*/
+.sp05{letter-spacing:0.5em;}
+.sp10{letter-spacing:1em;}
+/*文本居中*/
+.center{text-align:center !important;text-indent:0em;}
+/*文本居左*/
+.left{text-align:left !important;duokan-text-indent:0em;text-indent:0em;}
+/*文本居右*/
+.right{text-align:right !important;text-indent:0em;}
+/*斜体的字体样式*/
+.italic{font-style:italic}
+/*倾斜的字体样式*/
+.oblique{font-style:oblique}
+
+
+/*字体颜色控制*/
+.colorc1{color:#000000}/*书名颜色，默认黑色。*/
+.colorc2{color:#000000}/*卷数颜色，默认黑色。*/
+.color1{color:#000000}/*印象色，用于制作者人名、章节标题等处，默认黑色。*/
+/*补充颜色写在下面，并注明用处*/
+.color2{color:#55007f}  /*蕾妮·西亚*/
+.color3{color:#aa0000}  /*伊利亚·克拉尔*/
+.color4{color:#0055ff}  /*尤菲利亚·玛泽塔*/
+.color5{color:#bb0055}  /*安妮丝菲亚·文·帕雷迪亚*/
+
+/*元素控制样式*/
+/*td元素顶端对齐*/
+.tdtop{vertical-align:top}
+/*td元素底端对齐*/
+.tdbottom{vertical-align:bottom}
+/*td元素垂直居中对齐*/
+.tdmiddle{vertical-align:middle}
+/*td元素水平居中*/
+.tdcenter{margin-left:auto; margin-right:auto;}
+
+
+/*元素自动分页*/
+.pagebreak{page-break-inside:auto !important;}
+.pagebreakavoid{page-break-inside:avoid !important;}
+
+
+/*元素宽度*/
+.w05{width:0.5em}
+.w07{width:0.7em}
+.w09{width:0.9em}
+.w10{width:1em}
+.w11{width:1.1em}
+.w26{width:2.6em}
+.w33{width:3.3em}
+.w37{width:3.7em}
+.w40{width:4em}
+.w44{width:4.4em}
+.w55{width:5.5em}
+.w70{width:70%}
+.w100{width:100%}
+/*元素顶部外边距*/
+.mtb13{margin-top:-1.3em;}
+.mtb09{margin-top:-0.9em;}
+.mtb05{margin-top:-0.5em;}
+.mtb03{margin-top:-0.3em;}
+.mt03{margin-top:0.3em;}
+.mt05{margin-top:0.5em;}
+.mt09{margin-top:0.9em;}
+.mt11{margin-top:1.1em;}
+.mt13{margin-top:1.3em;}
+.mt15{margin-top:1.5em;}
+.mt20{margin-top:2em;}
+.mt60{margin-top:6em;}
+/*元素下外边距*/
+.mb10{margin-bottom:1em;}
+/*元素上下外边距*/
+.mbt02{margin:0.2em 0;}
+.mbt05{margin:0.5em 0;}
+.mbt09{margin:0.9em 0;}
+.mbt15{margin:1.5em 0;}
+.mbt18{margin:1.8em 0;}
+/*元素左右边距*/
+.mlr02{margin:0 0.2em;}
+.mlr05{margin:0 0.5em;}
+.mlr09{margin:0 0.9em;}
+.mlr15{margin:0 1.5em;}
+.mlr18{margin:0 1.8em;}
+/*元素上下内边距*/
+.pbt05{padding-top:0.5em; padding-bottom:0.5em;}
+
+/*元素左右内边距*/
+.plr05{padding-left:0.5em; padding-right:0.5em;}
+.plr07{padding-left:0.7em; padding-right:0.7em;}
+.plr10{padding-left:1em; padding-right:1em;}
+
+/*行高控制*/
+.h04{line-height:0.4;vertical-align:center;}
+.h06{line-height:0.6;vertical-align:center;}
+.h08{line-height:0.8;vertical-align:center;}
+.h11{line-height:1.1;vertical-align:center;}
+.h15{line-height:1.5;vertical-align:center;}
+.h20{line-height:2;vertical-align:bottom;}
+
+
+/*浮动控制*/
+.fright{float:right;}
+.fleft{float:left;}
+.cright{clear:right;}
+.cleft{clear:left;}
+.cboth{clear:both;}
+
+
+/*字体*/
+@font-face {
+  font-family: "title1";
+  src: url("../Fonts/Std-E.otf");
+}
+.TT1 {font-family: title1;}
+@font-face {
+  font-family: "title2";
+  src: url("../Fonts/simhei.ttf");
+}
+.TT2 {font-family: title2;}
+@font-face {
+  font-family: "title3";
+  src: url("../Fonts/STSONG.TTF");
+}
+.TT3 {font-family: title3;}
+@font-face {
+  font-family: "PuHuiTi";
+  src: url("../Fonts/PuHuiTi.ttf");
+}
+.puhui {font-family: PuHuiTi;}
+@font-face {
+  font-family: "ZM";
+  src: url("../Fonts/ZM.ttf");
+}
+.ZM {font-family: ZM;}
+@font-face {
+  font-family: "HKHTJW";
+  src: url("../Fonts/HKHTJW.TTF");
+}
+.HK {font-family: HKHTJW;}
+@font-face {
+  font-family: "FZBWKS_GBK";
+  src: url("../Fonts/FZBWKS_GBK.ttf");
+}
+.ZW {font-family: FZBWKS_GBK;}
+@font-face {
+  font-family: "YT";
+  src: url("../Fonts/YT.ttf");
+}
+.YT {font-family: YT;}
+
+/*字体阴影*/
+.shadow{
+	text-shadow:0 0 3px #ffffff;
+	text-shadow:0 0 3px #ffffff,0 0 3px #ffffff,0 0 3px #ffffff,0 0 3px #ffffff;
+}
+.shadow-cx {
+  color: white;
+  text-shadow: 0 0 2px #e1061f;
+  text-shadow: 0 0 3px #e1061f, 0 0 0.1em #e1061f, 0 0 0.25em #e1061f;
+}
+
+/*旋转相关*/
+.zhuan1{
+	transform:rotate(15deg);
+	-ms-transform:rotate(15deg); 	
+	-moz-transform:rotate(15deg); 
+	-webkit-transform:rotate(15deg);
+	-o-transform:rotate(15deg);
+}
+
+
+/*分割线设置*/ 
+.fengexian {
+  color: gray;
+  display: block;
+  height: 2px;
+  border: currentColor inset 1px;
+  margin: 0.5em auto;
+}
+/*注释图片大小设置*/
+a.duokan-footnote img {
+  width: 0.85em;  /*标签内注释图片宽度为文字大小的0.85倍*/
+}
+/*封面样式*/
+.zi {
+  width: 1em;
+  height: 1em;
+  color: white;
+  -o-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.kuai {
+  width: 1em;
+  height: 1em;
+  padding: 0.25em;
+  margin-top:1.8em;
+  margin-right:0.1em;margin-left:0.1em;
+  margin-bottom:0em;
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  background-color: black;
+  border: 1px solid #ffffff;
+}
+.titlewidth {
+  width:19em;
+  max-width :100%;
+}
+.titletop {
+  margin-top: 18em;
+}
+.marginright {
+  margin-right:10px;
+}
+.shadow-c1 {
+  color: white;
+  text-shadow: 0 0 2px #0055ff;
+  text-shadow: 0 0 4px #0055ff, 0 0 0.1em #0055ff, 0 0 0.35em #0055ff;
+}
+.shadow-c2 {
+  color: white;
+  text-shadow: 0 0 2px #ff0000;
+  text-shadow: 0 0 4px #ff0000, 0 0 0.1em #ff0000, 0 0 0.35em #ff0000;
+}
+.shadow-c3 {
+  color: white;
+  text-shadow: 0 0 2px #0af;
+  text-shadow: 0 0 4px #0af, 0 0 0.3em #0af, 0 0 0.55em #0af;
+}
+.shadow-c4 {
+  color: #ffff00;
+  text-shadow: 0 0 2px #ffaa00;
+  text-shadow: 0 0 4px #ffaa00, 0 0 0.3em #ffaa00, 0 0 0.55em #ffaa00;
+}
+.shadow1 {
+  color: white;
+  text-shadow: 0 0 2px #44aa00;
+  text-shadow: 0 0 3px #44aa00, 0 0 0.1em #44aa00, 0 0 0.25em #44aa00;
+}
+.shadow1-1 {
+  color: white;
+  text-shadow: 0 0 2px #22aa88;
+  text-shadow: 0 0 3px #22aa88, 0 0 0.1em #22aa88, 0 0 0.25em #22aa88;}
+.shadow2 {
+  color: white;
+  text-shadow: 0 0 2px #00aaff;
+  text-shadow: 0 0 3px #00aaff, 0 0 0.1em #00aaff, 0 0 0.25em #00aaff;
+}
+.shadow3 {
+  color: white;
+  text-shadow: 0 0 2px #fa0;
+  text-shadow: 0 0 3px #fa0, 0 0 0.1em #fa0, 0 0 0.25em #fa0;
+}
+
+
+.margin{
+  margin-right:0.2em;
+  margin-top:0.3em;
+}
+.js {
+  width: 16em;
+  max-width: 100%;
+  margin-top: 1em; margin-bottom: 1em;
+  margin-right: 0.1em; margin-left: 0.1em;
+}
+.js .title {
+  font-size: 1.1em;
+}
+.js .intro p{
+  font-size: 0.7em;
+  text-indent: 0em;
+  line-height: 1em;
+}
+.bb1 {
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #55007f;
+  margin-bottom: 0.2em;
+}
+.bb2 {
+  border-bottom: 1px solid #aa0000;
+  margin-bottom: 0.2em;
+}
+.bb3 {
+  border-bottom: 1px solid #0055ff;
+  margin-bottom: 0.2em;
+}
+.bb4 {
+  border-bottom: 1px solid #bb0055;
+  margin-bottom: 0.2em;
+}
+.illu3 p {
+  font-size: 0.9em;
+  line-height: 1.7em;
+  text-indent: 0em;
+  margin: 0em;
+}
+.box3 {
+  margin-top: 2em;
+  margin-right: auto; margin-left: auto;
+  width: 20em;
+  max-width: 100%;
+}
+.duihua p {
+  font-size: 1.2em;
+  line-height: 1.3em;
+  text-indent: 0em;
+  margin: 0em;
+}
+
+
+/*注释代码*/
+/*
+xmlns:epub="http://www.idpf.org/2007/ops"
+
+
+<a class="duokan-footnote" epub:type="noteref" href="#note1" id="note_ref1"><img alt="note" class="zhangyue-footnote" src="note.png" zy-footnote="注释内容"/></a>前文未完的句子</p>
+
+<aside epub:type="footnote" id="note1">
+ <ol class="duokan-footnote-content" style="list-style:none">
+  <li class="duokan-footnote-item" id="note1"><p><a class="nodeco color1" href="#note_ref1">译注：</a>注释内容</p>
+  </li>
+ </ol>
+</aside>
+
+
+章节名HTML代码：
+<table class="mb10">
+  <tbody class="bold font14">
+    <tr>
+      <td class="tdtop w33"></td>
+      <td class="left"></td>
+    </tr>
+  </tbody>
+</table>
+*/
