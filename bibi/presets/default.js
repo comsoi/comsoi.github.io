@@ -60,10 +60,10 @@ Bibi.preset({
 
 "ui-font-family"             : "", // CSS font-family value as "'Helvetica', sans-serif" or ""
 
-"item-padding-left"          : 24, // Number of pixel (It affects only for reflowable books.)
-"item-padding-right"         : 24, // Number of pixel (It affects only for reflowable books.)
-"item-padding-top"           : 48, // Number of pixel (It affects only for reflowable books.)
-"item-padding-bottom"        : 24, // Number of pixel (It affects only for reflowable books.)
+"item-padding-left"          : 48, // Number of pixel (It affects only for reflowable books.)
+"item-padding-right"         : 48, // Number of pixel (It affects only for reflowable books.)
+"item-padding-top"           : 96, // Number of pixel (It affects only for reflowable books.)
+"item-padding-bottom"        : 48, // Number of pixel (It affects only for reflowable books.)
 
 "spread-gap"                 : 48, // Number of pixel (It affects only in paged view mode.)
 "spread-margin"              : 0, // Number of pixel
@@ -203,4 +203,4 @@ Bibi.preset({
 */
 
 
-"bibi": "EPUB Reader on your website." });
+"bibi": "您网站上的EPUB阅读器。" });
